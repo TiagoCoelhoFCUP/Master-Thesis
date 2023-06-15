@@ -1,5 +1,5 @@
 # Master-Thesis
-Higher Education Institutions Social Media Content Strategies
+##Higher Education Institutions Social Media Content Strategies
 
 In this dissertation we create an automatic
 system capable of identifying Higher Education Institutions Twitter communication strategies
@@ -27,8 +27,9 @@ indexing services.
 This work was also the subject of an article accepted in the IEEE BigData 2021 conference titled "Analysis of Top-Ranked HEI Publications’ Strategy
 on Twitter".
 
-![image](https://github.com/TiagoCoelhoFCUP/Master-Thesis/assets/13381706/17b05d60-e5b4-4276-b298-7cac9928e6eb)
-
+<p align="center">
+  ![image](https://github.com/TiagoCoelhoFCUP/Master-Thesis/assets/13381706/17b05d60-e5b4-4276-b298-7cac9928e6eb)
+</p>
 
 
 
